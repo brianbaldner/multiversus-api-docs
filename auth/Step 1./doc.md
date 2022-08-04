@@ -2,7 +2,7 @@
 
 See the README.md in the prev directory for more info.
 
-Method: `GET`  
+Method: `POST`  
 URL: `https://dokken-api.wbagora.com/access`  
 Headers:
  - `x-hydra-api-key`: `51586fdcbd214feb84b0e475b130fce0`

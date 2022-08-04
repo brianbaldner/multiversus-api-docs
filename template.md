@@ -2,9 +2,16 @@
 
 Insert comments here
 
-Method: `GET`  
-URL: `url here including root because there are multiple roots`  
+Method: `GET`
+
+URL: `url here including root because there are multiple roots`
+
+Params (Remove if unnecessary):
+
+ - ``: ``
+ 
 Headers:
+
  - `x-hydra-api-key`: `51586fdcbd214feb84b0e475b130fce0`
  - `x-hydra-user-agent`: `Hydra-Cpp/1.132.0`
  - `x-hydra-access-token`: `auth token/network token (delete wrong one)`
