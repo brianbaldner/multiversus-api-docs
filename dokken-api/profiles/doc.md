@@ -18,6 +18,6 @@ Headers:
  - `x-hydra-access-token`: `network token`
  - `Content-Type`: `application/json`
 
-Body: `Paste body or use “N/A”`
+Body: `N/A`
 
 Return: [Here](response.json)
