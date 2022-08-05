@@ -8,8 +8,8 @@ URL: `https://dokken-api.wbagora.com/profiles/62e04af409add40e2a954391`
 
 Params:
 
- - `fields`: `server_data`
- - `fields`: `data`
+ - `fields`: `server_data` (Optional)
+ - `fields`: `data` (Optional)
  
 Headers:
 
