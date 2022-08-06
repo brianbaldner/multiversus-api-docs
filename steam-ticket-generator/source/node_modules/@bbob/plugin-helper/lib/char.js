@@ -1,0 +1,31 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+exports.BACKSLASH = exports.PLACEHOLDER_SPACE = exports.PLACEHOLDER_SPACE_TAB = exports.SLASH = exports.CLOSE_BRAKET = exports.OPEN_BRAKET = exports.SPACE = exports.QUOTEMARK = exports.EQ = exports.TAB = exports.R = exports.F = exports.N = void 0;
+var N = '\n';
+var TAB = '\t';
+var F = '\f';
+var R = '\r';
+var EQ = '=';
+var QUOTEMARK = '"';
+var SPACE = ' ';
+var OPEN_BRAKET = '[';
+var CLOSE_BRAKET = ']';
+var SLASH = '/';
+var BACKSLASH = '\\';
+var PLACEHOLDER_SPACE_TAB = '    ';
+var PLACEHOLDER_SPACE = ' ';
+exports.N = N;
+exports.F = F;
+exports.R = R;
+exports.TAB = TAB;
+exports.EQ = EQ;
+exports.QUOTEMARK = QUOTEMARK;
+exports.SPACE = SPACE;
+exports.OPEN_BRAKET = OPEN_BRAKET;
+exports.CLOSE_BRAKET = CLOSE_BRAKET;
+exports.SLASH = SLASH;
+exports.PLACEHOLDER_SPACE_TAB = PLACEHOLDER_SPACE_TAB;
+exports.PLACEHOLDER_SPACE = PLACEHOLDER_SPACE;
+exports.BACKSLASH = BACKSLASH;
