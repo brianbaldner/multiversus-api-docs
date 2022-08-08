@@ -1,0 +1,62 @@
+{
+    "total": 5,
+    "page": 1,
+    "page_size": 20,
+    "results": [
+        {
+            "created_at": "2022-07-31T05:44:59+00:00",
+            "account": {
+                "public_id": "*",
+                "username": "*",
+                "avatar": {
+                    "name": "MultiVersus Finn",
+                    "image_url": "https://prod-network-images.wbagora.com/network/account-wbgames-com/multiversus-finn.jpg"
+                }
+            }
+        },
+        {
+            "created_at": "2022-08-05T23:05:59+00:00",
+            "account": {
+                "public_id": "*",
+                "username": "*",
+                "avatar": {
+                    "name": "Hell Boy",
+                    "image_url": "https://prod-network-images.wbagora.com/network/account-wbgames-com/hellboy.jpg"
+                }
+            }
+        },
+        {
+            "created_at": "2022-07-28T01:05:30+00:00",
+            "account": {
+                "public_id": "*",
+                "username": "*",
+                "avatar": {
+                    "name": "MultiVersus Tom and Jerry",
+                    "image_url": "https://prod-network-images.wbagora.com/network/account-wbgames-com/multiversus-tom-and-jerry.jpg"
+                }
+            }
+        },
+        {
+            "created_at": "2022-07-28T00:29:37+00:00",
+            "account": {
+                "public_id": "*",
+                "username": "*",
+                "avatar": {
+                    "name": "MultiVersus Reinddog",
+                    "image_url": "https://prod-network-images.wbagora.com/network/account-wbgames-com/multiversus-reinddog.jpg"
+                }
+            }
+        },
+        {
+            "created_at": "2022-07-21T04:53:02+00:00",
+            "account": {
+                "public_id": "*",
+                "username": "*",
+                "avatar": {
+                    "name": "MultiVersus Garnet",
+                    "image_url": "https://prod-network-images.wbagora.com/network/account-wbgames-com/multiversus-garnet.jpg"
+                }
+            }
+        }
+    ]
+}

@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "dependencies": {
     "steam-user": "^4.24.6"
   },
@@ -8,7 +7,8 @@
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nexe app.js --build"
   },
   "author": "",
   "license": "ISC",
